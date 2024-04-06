@@ -4,7 +4,7 @@ package com.travelcheap;
  * Hello world!
  *
  */
-public class App 
+public class Sample 
 {
     public static void main( String[] args )
     {
